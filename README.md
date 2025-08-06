@@ -6,12 +6,10 @@ This project is a Power BI dashboard built using a cleaned sales dataset. It vis
 
 ## 📁 Files Included
 
-| File Name              | Description                            |
-|------------------------|----------------------------------------|
-| cleaned_data.xlsx    | Final cleaned dataset used in Power BI |
-| sales_dashboard.pbix | Power BI dashboard file                |
-
----
+| File Name                   | Description                            |
+|------------------------     |----------------------------------------|
+| Sample - Superstore.xls     | Raw dataset used from kaggle           |
+| cleaned data.pbix           | Final cleaned dataset used in Power BI |             
 
 ## 📊 Visualizations Included
 
@@ -26,8 +24,8 @@ This project is a Power BI dashboard built using a cleaned sales dataset. It vis
 
 ## 🛠 Tools Used
 
-- Power BI Desktop
-- Excel (for data cleaning)
+- Power BI Desktop(for data cleaning)
+- Excel 
 - GitHub (for version control)
 
 ---
@@ -45,3 +43,6 @@ This project is a Power BI dashboard built using a cleaned sales dataset. It vis
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/powerbi-sales-dashboard.git# task-2
+   🙋‍♀ Author
+
+Tejasree Nune
