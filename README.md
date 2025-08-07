@@ -9,7 +9,7 @@ This project is a Power BI dashboard built using a cleaned sales dataset. It vis
 | File Name                   | Description                            |
 |------------------------     |----------------------------------------|
 | Sample - Superstore.xls     | Raw dataset used from kaggle           |
-| cleaned data.pbix           | Final cleaned dataset used in Power BI |             
+| cleaned data -1.pbix           | Final cleaned dataset used in Power BI |             
 
 ## 📊 Visualizations Included
 
