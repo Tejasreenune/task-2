@@ -43,6 +43,10 @@ This project is a Power BI dashboard built using a cleaned sales dataset. It vis
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/powerbi-sales-dashboard.git# task-2
-   🙋‍♀ Author
+  <img width="756" height="480" alt="task 2(1)" src="https://github.com/user-attachments/assets/7d83896f-cfc9-41f4-a00e-cb57b39c98aa" />
+  <img width="758" height="454" alt="task 2(2)" src="https://github.com/user-attachments/assets/d94a0549-77f8-4cc4-b473-b7f7106dabab" />
+
+
+  ## 🙋‍♀ Author
 
 Tejasree Nune
